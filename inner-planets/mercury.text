@@ -1,4 +1,8 @@
 closest to the sun
 Extreme tempurates
 SmallestSmallest planet 
+<<<<<<< HEAD
 Another part 5 change but in VS not Github desktop 
+=======
+This is the edit to show how Git updates and keeps track of info accross multiple platforms
+>>>>>>> b4c639fb8d255348f9d128c8cc21a614834fa997
